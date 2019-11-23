@@ -1,2 +1,2 @@
-# nodejs-mysql-authentication
-A simple login and register using nodejs, mysql, and jwt token
+# Man-Quoter (WIP)
+App to find someone to attain quotes for services on your behalf
